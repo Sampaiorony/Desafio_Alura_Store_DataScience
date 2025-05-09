@@ -1,18 +1,55 @@
-@@ -165,6 +165,25 @@ A **Loja 4 combina os piores indicadores de desempenho geral**, com:
-> Apesar da logística enxuta, **não há justificativa estratégica para sua permanência**.  
-**Recomenda-se sua venda**, permitindo ao Senhor João **realocar capital para empreendimentos com maior retorno e escalabilidade**.
+Objetivo da Análise
+O objetivo deste relatório é ajudar o Senhor João na tomada de decisão sobre quais das quatro lojas devem ser vendidas. Para isso, foi realizada uma análise detalhada com base nos seguintes critérios:
 
----
+Faturamento total das lojas
+Desempenho por categoria de produtos
+Desempenho por categoria de produtos
+Produtos mais e menos vendidos
+Gasto e média com frete.
 
-### 📊 Estratégias para Melhorar o Faturamento das Lojas Mantidas
-Embora a análise tenha identificado a Loja 4 como a mais indicada para venda, é essencial também apontar caminhos para maximizar o desempenho das unidades que permanecerão ativas. A seguir, algumas recomendações práticas baseadas nos dados analisados:
+***
 
-Redução de Custos Logísticos (Loja 1): 
-> A Loja 1 apresentou o maior custo médio de frete, o que pode impactar negativamente a margem de lucro. Recomenda-se negociar com parceiros logísticos ou revisar a política de frete grátis para pedidos acima de determinado valor.
 
-> Aproveitamento das Categorias de Alto Desempenho: Categorias como móveis, eletrônicos e brinquedos mostraram forte apelo de vendas. Aumentar o investimento em marketing direcionado e ampliar o mix desses produtos pode alavancar o faturamento das lojas.
 
-> Campanhas de Fidelização e Recuperação de Clientes (Loja 1): A loja apresentou a pior avaliação média (3,98). Adoção de programas de fidelização, pesquisas de satisfação e resolução ativa de reclamações pode melhorar a percepção da marca e aumentar a taxa de recompra.
+A análise do faturamento total revelou os seguintes resultados:
+
+**Conclusão:** A **Loja 1** é a mais lucrativa, enquanto a **Loja 4** tem o menor faturamento.
+
+![img_faturamento](https://github.com/user-attachments/assets/017d1523-bb7d-4c58-8303-31e304823fb3)
+
+________________________________________
+# **2.** **Categorias de Produtos Mais e Menos Vendidas**
+
+A categoria mais vendida em todas as lojas foi **"móveis"**, seguida por **"eletrônicos"** e **"brinquedos"**. As menos vendidas variam, com **"livros”**, **“instrumentos musicais"** e **"utilidades domésticas"** aparecendo com menor frequência em algumas lojas.
+
+**Conclusão:** As categorias de alto valor estão bem distribuídas entre as lojas, com destaque consistente para móveis.
+
+![img_categoria](https://github.com/user-attachments/assets/ece653e5-ccd4-4f76-b9ef-8d49ac92cfd1)
+
+________________________________________
+# **3. Média de Avaliação dos Clientes**
+
+@@ -54,13 +58,20 @@ As médias de avaliação por loja foram:
+
+**Conclusão:** A **Loja 3** apresenta a melhor satisfação do cliente, enquanto a **Loja 1** tem o menor desempenho nesse aspecto.
+
+![img_avaliacao](https://github.com/user-attachments/assets/ec7b7bda-883a-4c1d-bc35-f6c022edbaea)
+
+________________________________________
+# **4. Produtos Mais e Menos Vendidos**
+
+**• Mais vendidos:** Loja 2 (com 65 unidades de **“Iniciando em programação”**) e Loja 4 (com 62 unidades de **“Cama box”**).
+**• Menos vendidos:** Loja 2 e Loja 4 possuem produtos com vendas muito baixas, abaixo de 35 unidades. O produto com menos saída foi **“jogo de tabuleiro”** da Loja 2 e **“guitarra”** da Loja 4.
+
+**Conclusão:** Há equilíbrio nos produtos de maior saída, mas lojas como a 4 e a 2 têm itens com baixa rotatividade.
+
+![img_mais_vendidos](https://github.com/user-attachments/assets/c60dc9f8-244d-4d97-b051-87546a49a09d)
+
+![img_menos_vendidos](https://github.com/user-attachments/assets/62f02205-9d62-4aa2-9c86-b2af06f0a16d)
+
+________________________________________
+# **5. Frete Médio por Loja**
+ogramas de fidelização, pesquisas de satisfação e resolução ativa de reclamações pode melhorar a percepção da marca e aumentar a taxa de recompra.
 
 > Expansão Geográfica Estratégica: Considerando o mapa e a sobreposição territorial, é possível redirecionar campanhas publicitárias e logística para áreas com menor cobertura e maior potencial de consumo, especialmente nas regiões Norte e Centro-Oeste.
 

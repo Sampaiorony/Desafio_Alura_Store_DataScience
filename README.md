@@ -1,4 +1,5 @@
-Objetivo da Análise
+Objetivo da Análise.
+
 O objetivo deste relatório é ajudar o Senhor João na tomada de decisão sobre quais das quatro lojas devem ser vendidas. Para isso, foi realizada uma análise detalhada com base nos seguintes critérios:
 
 Faturamento total das lojas
